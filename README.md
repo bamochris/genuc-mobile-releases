@@ -4,12 +4,19 @@ Ce dépôt sert **uniquement à distribuer l'application mobile GENUC** à l'éq
 Il ne contient aucun code source : le projet vit dans un dépôt privé, et seuls
 les fichiers d'installation sont publiés ici.
 
-## Télécharger la dernière version
+## Télécharger
 
-👉 **[Aller à la dernière version](https://github.com/bamochris/genuc-mobile-releases/releases/latest)**
+**Lien à partager :  tinyurl.com/genucapkdirect**
 
-Sur la page qui s'ouvre, ouvrez la section **Assets** et touchez le fichier
-`.apk`. Aucun compte GitHub n'est nécessaire.
+Il télécharge directement le fichier `.apk`, sans compte et sans passer par
+aucune page.
+
+Pour voir la page de la version (notes, empreinte, versions précédentes) :
+**tinyurl.com/genucapk** — le fichier s'y trouve sous **Assets**, une section
+repliée par défaut.
+
+Ces deux adresses ne changent pas d'une livraison à l'autre : inutile d'en
+rediffuser une nouvelle à chaque build.
 
 ## Installer sur Android
 
